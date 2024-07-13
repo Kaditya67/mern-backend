@@ -1,0 +1,20 @@
+{
+  "name": "productionapp",
+  "version": "1.0.0",
+  "description": "Production level app pratcice",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "aditya"
+  ],
+  "author": "Aditya Ojha",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
+  }
+}
